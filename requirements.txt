@@ -1,0 +1,12 @@
+To run our Jupyter Notebook smoothly, 
+please follow these quick steps:
+
+1. Open Google Colab .
+2. Upload the notebook file: 'Signal_Seekers_Dileverable_2.ipynb'.
+3. Run the first 2 cells (till #Load Dataset) 
+4. Upload the city_day.csv file from the folder.
+5. After that the dataset will be loaded and you are good to go :)
+
+Note: Since this project was developed entirely in Google Colab, all 
+core machine learning libraries (pandas, scikit-learn, seaborn, etc.) 
+are pre installed cloud defaults and do not require manual pip installations
